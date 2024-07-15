@@ -1,5 +1,6 @@
+package com.personetics.test.main;
+
 import java.util.Set;
-import java.util.List;
 
 
 public interface Node {
